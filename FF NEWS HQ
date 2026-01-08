@@ -1,0 +1,117 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Free Fire News HQ – Official</title>
+  <meta name="description" content="Free Fire News HQ – Trusted source for Free Fire events, updates, and community tools." />
+  <style>
+    body{
+      margin:0;
+      font-family: Arial, Helvetica, sans-serif;
+      background:#0b0f1a;
+      color:#ffffff;
+    }
+    header{
+      background:linear-gradient(135deg,#0b1c3d,#8b0000);
+      padding:20px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+    }
+    header img{
+      height:60px;
+    }
+    nav a{
+      color:#fff;
+      margin-left:15px;
+      text-decoration:none;
+      font-weight:bold;
+    }
+    .hero{
+      padding:60px 20px;
+      text-align:center;
+      background:radial-gradient(circle at top,#ff4500,#0b0f1a 60%);
+    }
+    .hero h1{
+      font-size:2.5em;
+      margin-bottom:10px;
+    }
+    .section{
+      padding:40px 20px;
+      max-width:1100px;
+      margin:auto;
+    }
+    .cards{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      gap:20px;
+    }
+    .card{
+      background:#11162a;
+      padding:20px;
+      border-radius:12px;
+      box-shadow:0 0 15px rgba(255,69,0,0.2);
+    }
+    footer{
+      background:#05070d;
+      padding:20px;
+      text-align:center;
+      font-size:14px;
+      color:#ccc;
+    }
+    footer a{color:#ff4500;text-decoration:none;}
+  </style>
+</head>
+<body><header>
+  <img src="logo.png" alt="Free Fire News HQ Logo" />
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#events">Events</a>
+    <a href="#tools">Tools</a>
+    <a href="#contact">Contact</a>
+    <a href="#legal">Legal</a>
+  </nav>
+</header><section class="hero" id="home">
+  <h1>Free Fire News HQ</h1>
+  <p>Official Hub for Free Fire Events, Updates & Community Tools</p>
+</section><section class="section" id="events">
+  <h2>🔥 Events & Updates</h2>
+  <div class="cards">
+    <div class="card">Upcoming Ring Events & Rewards</div>
+    <div class="card">Server-wise Event Information</div>
+    <div class="card">Advance Event Calendar</div>
+  </div>
+</section><section class="section" id="tools">
+  <h2>🤖 Community Tools</h2>
+  <div class="cards">
+    <div class="card">Like & Visit Engagement Bots (Community Engagement Only)</div>
+    <div class="card">Telegram Utility Bots</div>
+    <div class="card">Public Community Features</div>
+  </div>
+</section><section class="section" id="contact">
+  <h2>📩 Contact & Official Links</h2>
+  <div class="cards">
+    <div class="card">📧 Email: freefirenewshq@gmail.com</div>
+    <div class="card">📸 Instagram: <a href="https://www.instagram.com/freefirenewshq" target="_blank">@freefirenewshq</a></div>
+    <div class="card">📢 Telegram Channel: <a href="https://t.me/FFExclusiveLeaks" target="_blank">FF Exclusive Leaks</a></div>
+  </div>
+</section><section class="section" id="legal">
+  <h2>⚖️ Disclaimer</h2>
+  <p>
+    Free Fire News HQ does not support or promote any illegal activities.
+    All information is shared for informational and educational purposes only.
+    We do not encourage hacking, cheats, or any activity that violates Garena Free Fire’s Terms of Service.
+  </p>
+  <p>
+    Free Fire News HQ is not affiliated with or endorsed by Garena.
+  </p>
+</section><footer>
+  <p>© 2026 Free Fire News HQ – All Rights Reserved</p>
+  <p>
+    Contact: freefirenewshq@gmail.com | 
+    <a href="https://www.instagram.com/freefirenewshq" target="_blank">Instagram</a> | 
+    <a href="https://t.me/FFExclusiveLeaks" target="_blank">Telegram</a>
+  </p>
+  <p>Free Fire News HQ is not affiliated with or endorsed by Garena.</p>
+</footer></body>
+</html>
